@@ -14,4 +14,4 @@ Give a description of the technologies and techniques used. Pictures, GIFs, or s
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Simple Todo App](https://anandragothaman.github.io/se_project_todo-app/)
